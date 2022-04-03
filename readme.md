@@ -1,2 +1,2 @@
 # ExcelProcessor
-Java集成easyExcel处理Excel各类数据。
+Java集成easyExcel框架处理Excel各类数据。
